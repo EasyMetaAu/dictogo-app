@@ -28,6 +28,8 @@ You can create learning articles in several ways:
 - Import from cloud drives such as Google Drive, Aliyun Drive, and Baidu Drive
 - Learn from supported video links such as YouTube and Bilibili
 
+You can also share good articles with friends or study partners, so useful learning material does not stay locked inside one person's app.
+
 The goal is simple: turn real reading and listening material into something you can study sentence by sentence.
 
 ## Core Features
@@ -42,7 +44,7 @@ Replay and shadow sentence by sentence so listening input can become speaking pr
 
 ### Vocabulary Books And Word Training
 
-Save words from real content, organize them into vocabulary books, and review them through focused word training.
+Save words from real content, organize them into vocabulary books, and review them through focused word training. You can practice by typing words from memory, or listen to words in a loop like using a music player, so review can happen both actively and passively.
 
 ### Sentence Library
 
@@ -55,6 +57,10 @@ Use AI-powered dialogue practice to move from passive understanding to active ex
 ### Immersive Reading And Listening
 
 Learn from material closer to real usage, not disconnected textbook examples.
+
+### Article Sharing
+
+Share useful articles with friends, classmates, or learning partners, so one good piece of content can become a shared learning resource.
 
 ## Who It Is For
 
