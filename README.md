@@ -6,8 +6,11 @@ DictoGo is an English listening and immersive learning app for learners who want
 
 Instead of studying isolated words, DictoGo helps you learn from full sentences, real context, repeated listening, vocabulary review, and sentence-based output practice.
 
+DictoGo was originally inspired by teacher Li Xiaolai's 1,000-hour learning method: language ability is built through long-term, high-density exposure and deliberate practice, not quick tricks.
+
 ## What DictoGo Helps You Do
 
+- Create learning articles in multiple ways: paste text, import long-form content, use PDF documents, or collect material from real reading and listening contexts
 - Listen to real English content with sentence-level support
 - Translate and understand full sentences in context, not just single words
 - Build vocabulary from the content you actually read and hear
@@ -18,6 +21,10 @@ Instead of studying isolated words, DictoGo helps you learn from full sentences,
 - Keep learning progress visible through daily practice records
 
 ## Core Features
+
+### Multiple Ways To Create Learning Articles
+
+Create articles from pasted text, imported long-form content, PDF documents, or material collected from real learning contexts. This makes DictoGo useful for both planned study and everyday content you discover while reading or listening.
 
 ### Sentence-Level Translation
 
