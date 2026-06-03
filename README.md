@@ -2,51 +2,51 @@
 
 [简体中文](README.zh-CN.md)
 
-DictoGo is an English listening and immersive learning app for learners who want to turn real-world content into daily practice.
+DictoGo is an English listening and immersive learning app built around one simple belief: English improves when you spend enough time with real content, full sentences, and repeated practice.
 
-Instead of studying isolated words, DictoGo helps you learn from full sentences, real context, repeated listening, vocabulary review, and sentence-based output practice.
+The product was originally inspired by Li Xiaolai's 1,000-hour learning method. Fluency does not come from tricks. It comes from high-density exposure, deliberate listening, sentence-level understanding, and enough repetition for useful expressions to become your own.
 
-DictoGo was originally inspired by teacher Li Xiaolai's 1,000-hour learning method: language ability is built through long-term, high-density exposure and deliberate practice, not quick tricks.
+DictoGo is designed for that kind of practice.
 
-## What DictoGo Helps You Do
+## Why We Built DictoGo
 
-- Create learning articles in multiple ways: paste text, import long-form content, use PDF documents, local media, photo albums, cloud drives, or supported video sites
-- Listen to real English content with sentence-level support
-- Translate and understand full sentences in context, not just single words
-- Build vocabulary from the content you actually read and hear
-- Review and train saved words through vocabulary books and word practice
-- Save useful sentences into a sentence library for repeated listening, shadowing, and output practice
-- Practice shadowing with Auto Echo to improve speaking rhythm
-- Move from understanding English to using it in output
-- Keep learning progress visible through daily practice records
+Many learners can recognize words, read articles, or understand short clips, but still get stuck when they need to speak or write.
+
+The problem is usually not a lack of isolated vocabulary. The missing link is sentence-level practice: seeing how ideas are expressed, hearing them repeatedly, saving useful words and sentences, and turning input into output.
+
+DictoGo helps you build that loop from the content you already care about.
+
+## Create Learning Materials From Real Content
+
+You can create learning articles in several ways:
+
+- Paste English text or your own learning materials
+- Start from native-language text and generate level-matched English content
+- Use AI creation for custom learning topics
+- Import PDF documents
+- Import local media or files from your photo album
+- Import from cloud drives such as Google Drive, Aliyun Drive, and Baidu Drive
+- Learn from supported video links such as YouTube and Bilibili
+
+The goal is simple: turn real reading and listening material into something you can study sentence by sentence.
 
 ## Core Features
 
-### Multiple Ways To Create Learning Articles
-
-Create articles from pasted text, native-language prompts, English text, AI creation, PDF documents, local media, photo albums, cloud drives, or supported video sites. This makes DictoGo useful for both planned study and everyday content you discover while reading or listening.
-
-Supported import sources found in the Delingo app codebase include:
-
-- Local: local media, photo album, PDF document, pasted text
-- International cloud and sites: Google Drive, YouTube URL
-- Mainland China cloud and sites: Aliyun Drive, Baidu Drive, Bilibili URL
-
 ### Sentence-Level Translation
 
-Understand complete sentences with their structure and context. This is useful when you can recognize words but still struggle to understand how the whole sentence works.
+Understand complete sentences with their structure and context, instead of only looking up single words.
 
 ### Auto Echo
 
-Replay and shadow sentence by sentence so you can turn listening input into speaking practice.
+Replay and shadow sentence by sentence so listening input can become speaking practice.
 
 ### Vocabulary Books And Word Training
 
-Save words from real content, organize them into vocabulary books, and review them through focused word training instead of memorizing disconnected word lists.
+Save words from real content, organize them into vocabulary books, and review them through focused word training.
 
 ### Sentence Library
 
-Collect useful sentences from articles or add them manually. The sentence library helps you repeatedly listen to, review, and practice expressions that are worth turning into active output.
+Collect useful sentences from articles or add your own. Revisit them for listening, shadowing, review, and output practice.
 
 ### AI Conversation Practice
 
@@ -54,7 +54,7 @@ Use AI-powered dialogue practice to move from passive understanding to active ex
 
 ### Immersive Reading And Listening
 
-Learn from content that feels closer to real usage, rather than disconnected textbook examples.
+Learn from material closer to real usage, not disconnected textbook examples.
 
 ## Who It Is For
 
