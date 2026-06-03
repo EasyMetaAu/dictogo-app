@@ -10,7 +10,7 @@ DictoGo was originally inspired by teacher Li Xiaolai's 1,000-hour learning meth
 
 ## What DictoGo Helps You Do
 
-- Create learning articles in multiple ways: paste text, import long-form content, use PDF documents, or collect material from real reading and listening contexts
+- Create learning articles in multiple ways: paste text, import long-form content, use PDF documents, local media, photo albums, cloud drives, or supported video sites
 - Listen to real English content with sentence-level support
 - Translate and understand full sentences in context, not just single words
 - Build vocabulary from the content you actually read and hear
@@ -24,7 +24,13 @@ DictoGo was originally inspired by teacher Li Xiaolai's 1,000-hour learning meth
 
 ### Multiple Ways To Create Learning Articles
 
-Create articles from pasted text, imported long-form content, PDF documents, or material collected from real learning contexts. This makes DictoGo useful for both planned study and everyday content you discover while reading or listening.
+Create articles from pasted text, native-language prompts, English text, AI creation, PDF documents, local media, photo albums, cloud drives, or supported video sites. This makes DictoGo useful for both planned study and everyday content you discover while reading or listening.
+
+Supported import sources found in the Delingo app codebase include:
+
+- Local: local media, photo album, PDF document, pasted text
+- International cloud and sites: Google Drive, YouTube URL
+- Mainland China cloud and sites: Aliyun Drive, Baidu Drive, Bilibili URL
 
 ### Sentence-Level Translation
 
